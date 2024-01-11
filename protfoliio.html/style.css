@@ -1,0 +1,176 @@
+     
+body{
+      font-family: 'Roboto Slab', serif;
+      
+}
+nav{
+      justify-content: space-between;
+      display: flex;
+      align-items: center;
+      margin:0px 0px ;
+}
+.nav-title{
+      color: black;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 45px;
+      font-weight: 800;
+      font-style: normal;
+}
+.R{
+      color: hsl(0, 92%, 57%);
+}
+nav>ul{
+      display:flex;
+      align-items: center;
+     
+}
+nav li{
+      list-style: none;
+      margin: 8px;
+      border: 8cm;
+}
+nav a{
+      text-decoration: none;
+      color: #000000;
+}
+.b-primary{
+      border-radius:5px ;
+      background:hsl(0, 92%, 57%) ;
+      border: 0;
+      
+      padding: 15px ;
+    
+     
+    
+      font-weight: 100;
+    
+      font-size: 13px;
+      color: white;
+}
+.c-primary{
+      border-radius:5px ;
+      background:hsl(0, 12%, 65%) ;
+      border: 0;
+      
+      padding: 15px ;
+    
+     
+    
+      font-weight: 100;
+    
+      font-size: 13px;
+      color: white;
+}
+.hd{
+      
+background-color: white;
+padding: 0px 0px;
+background-image:url(./header_bg.png);
+background-repeat: no-repeat;
+background-position: bottom right;
+
+      
+}
+.baner{
+  padding: 39px 29px 0px 150px;
+      display: flex;
+      align-items: center;
+      justify-content:space-between;
+}
+.baner.profile{
+      width: 500px;
+}
+.baner0{
+      max-width: 500px;
+}
+.baner1{
+      font-size: 45px;
+      color: #474747;
+      margin-bottom: 0;
+}
+.baner2{
+      font-size: 85%;
+      font-weight: 600;
+      margin-bottom: 5px;
+      margin-bottom: 20px;
+}
+.baner3p{
+      width: 585;
+}
+
+.sestion{
+      padding: 130px;
+      border-radius:10px ;
+      background-color: aqua;
+      margin: 130px;
+
+}
+.sestion1{
+      color: #000000;
+      text-align: center;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-size: 35px;
+      font-style: normal;
+      font-weight: 700;
+}
+
+.main{
+      width: 1140px;
+      
+      margin: auto;
+}
+.abt-inf-cont{
+      display: flex;
+      justify-content:space-between;
+}
+.about-ifo{
+      text-align: center;
+}
+.section-title{
+      text-align: center;
+}
+#what i do{
+      padding: 30px 30px 150px;
+}
+.skill-containar{
+      display: flex;
+}
+.skill{
+      gap: 24px;
+      padding: 33px;
+}
+.resume-culum-title{
+      color: #474747;
+      
+      font-size: 30px;
+            font-weight: 100;
+      
+}
+.resume-container{
+      display: flex;
+      gap: 50px;
+}
+.rid.resume-item-info{
+      color: #757575;
+}
+.re-hr{
+      margin: 20px;
+}
+.dowanload-cv
+{
+      text-align: center;
+      margin-top: 50px ;
+
+}
+.footer-stl{
+      display: flex;
+      background-color: blanchedalmond ;
+      gap: 90px;
+      margin-top: 100px;
+      
+      
+      padding: 130px 200px;
+}
+.section-title{
+      text-align: left;
+}
